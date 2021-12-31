@@ -1,4 +1,4 @@
-# Additional Re-Analysis for GSE5859 Data Commonly Used for Studying Batch Effects in HarvardX PH525.4x
+## Additional Re-Analysis for GSE5859 Data Commonly Used for Studying Batch Effects in HarvardX PH525.4x
 
 Analysis of the data provided for the edX course is at the top-level.
 
